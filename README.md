@@ -1,6 +1,6 @@
 # Aprendiendo Markdown
 
-Mis primeros pasos en *Mackdown, que es un *formato de **marcado de archivos de texto**.
+Mis primeros pasos en *Mackdown, que es un *formato de* **marcado de archivos de texto**.
 
 A continuación una _lista_:
 
@@ -36,5 +36,4 @@ A continuación un **codigo de un programa**:
       public static void main (String[] args)
         System.out.println("Hola Mundo");
       }
-    }
-```    
+    
